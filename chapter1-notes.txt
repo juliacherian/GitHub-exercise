@@ -1,0 +1,20 @@
+- The rate of transcription initiation is the primarygulatory element in gene expression regulation
+- The rate is controlled by promotors and distantly acting enhancers
+- Effect of histone modifications or DNA methylation: If a regions is not accessible, transcription may not start at all
+- gene activity is also controlled by miRNAs (type of nc RNAs)
+- Transcription factors are proteins that recognise a specific DNA motif to bind to and regulates the transcription rate and regulates transcription rate of gene associated with that region
+- The concentration of these transcription factors and availibility of competing Transcription factors
+
+
+
+
+
+
+
+
+resume edts
+skills section
+1st point    wrote a program that uses openpyxl package for formatting excel data files (no need for improved readbility)
+2nd point    Took on the role of project team leader and delgated tasks at VIT. 
+
+
